@@ -4,12 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OlaMundo2
+namespace OlaMundo
 {
     class Program
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Ola Mundo");
+            Console.ReadKey();
         }
     }
 }
